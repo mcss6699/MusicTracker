@@ -23,13 +23,7 @@
 ## 高级设置
 
 ### 开机自启
-1. 在桌面 **右键 → 新建 → 快捷方式**
-2. 在“键入对象位置”中输入：
-   ```
-   powershell.exe -WindowStyle Hidden -Command "Start-Process 'C:\完整路径\MusicTracker.exe'"
-   ```
-   > 路径需要替换成你的实际路径
-3. 点“下一步”，名字随便填，点“完成”
-4. 右键这个快捷方式 → **复制**
-5. 按 `Win + R`，输入 `shell:startup` 回车
-6. 在启动文件夹里 **右键 → 粘贴**
+1. 右键 MusicTracker.exe，选择发送快捷方式到桌面
+2. 右键这个快捷方式 → **复制**
+3. 按 `Win + R`，输入 `shell:startup` 回车
+4. 在启动文件夹里 **右键 → 粘贴**
