@@ -26,4 +26,8 @@
 1. 右键 MusicTracker.exe，选择发送快捷方式到桌面
 2. 右键这个快捷方式 → **复制**
 3. 按 `Win + R`，输入 `shell:startup` 回车
+
 4. 在启动文件夹里 **右键 → 粘贴**
+
+### 让网易云支持 SMTC
+- 使用此项目：https://github.com/std-microblock/BetterNCM-Installer
